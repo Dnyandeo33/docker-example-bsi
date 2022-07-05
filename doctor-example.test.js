@@ -107,7 +107,7 @@ const solution = (healthCareWorker = {}, percentage) => {
 
 // ==================== Testing ==============================
 
-// base on 200 Euro
+// ==================== Base on 200 Euro =====================
 
 describe(solution.name + ': _', () => {
   describe('premium for doctors', () => {
